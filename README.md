@@ -283,11 +283,15 @@
 <!--          GITHUB DASHBOARD                 -->
 <!-- ========================================= -->
 
+
+
+
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sharu0715&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&rank_icon=github"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharu0715&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sharu0715&theme=tokyonight&hide_border=true&border_radius=18"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharu0715&theme=tokyonight"/>
 
 </div>
 
@@ -295,43 +299,9 @@
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharu0715&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharu0715&theme=tokyonight"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharu0715&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharu0715&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharu0715&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharu0715&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharu0715&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sharu0715&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharu0715&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
